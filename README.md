@@ -50,7 +50,7 @@ Here's what the app looks like in action:
 
 
 ## 📄 License
-This project is licensed under the ![LICENSE](License) 
+This project is licensed under the  Apache ![LICENSE](License) 
 
 ## 📬 Contact
 Created with ❤️ by ![Rktim](raktmxx@gmail.com)
